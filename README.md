@@ -18,5 +18,7 @@ responsible for VGA display and ultimately display on the LCD monitor.
 
 ## Reference
 Thanks for these two resources that make our final project become reality.
+
 [Tetris Game Template](https://osf.io/s6kfz/)
+
 [Nexys A7 3-Axis Accelerometer SPI](https://github.com/FPGADude/Digital-Design/tree/main/FPGA%20Projects/Nexys%20A7%203-Axis%20Accelerometer%20SPI)
